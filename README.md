@@ -1,3 +1,9 @@
+##About News App
+
+The app takes advantage of [News API](https://newsapi.org/) to fetch Top Headlines.
+
+Currently the app supports fetching top headlines based on country and for categories like business, entertainment, general, health, science, sports and technology.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
