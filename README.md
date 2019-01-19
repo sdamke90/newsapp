@@ -1,4 +1,4 @@
-##About News App
+## About News App
 
 The app takes advantage of [News API](https://newsapi.org/) to fetch Top Headlines.
 
